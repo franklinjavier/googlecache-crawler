@@ -1,0 +1,16 @@
+{
+  "name": "reviews-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franklin Javier",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "graceful-fs": "^3.0.5",
+    "request": "^2.53.0"
+  }
+}
